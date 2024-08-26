@@ -9,4 +9,4 @@ outputs:
 
 runs:
   using: "node16"
-  mail: "main.js"
+  main: "main.js"
